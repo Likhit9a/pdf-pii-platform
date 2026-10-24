@@ -1,0 +1,13 @@
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+data/
+.terraform/
+*.tfstate
+*.tfstate.*
+node_modules/
+dist/
+build/
